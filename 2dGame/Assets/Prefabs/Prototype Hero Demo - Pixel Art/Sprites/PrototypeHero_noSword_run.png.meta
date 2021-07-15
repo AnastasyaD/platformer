@@ -1,0 +1,409 @@
+fileFormatVersion: 2
+guid: 7112e1c4b9a85114b8960f1cdce0c296
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7436291906175903045
+    second: PrototypeHero_noSword_run_0
+  - first:
+      213: 3568845944341653735
+    second: PrototypeHero_noSword_run_1
+  - first:
+      213: -6993193263966637647
+    second: PrototypeHero_noSword_run_2
+  - first:
+      213: 513557088063312584
+    second: PrototypeHero_noSword_run_3
+  - first:
+      213: -8506604132920053331
+    second: PrototypeHero_noSword_run_4
+  - first:
+      213: 193213877192435759
+    second: PrototypeHero_noSword_run_5
+  - first:
+      213: 7125609395301004131
+    second: PrototypeHero_noSword_run_6
+  - first:
+      213: 4035839407339299264
+    second: PrototypeHero_noSword_run_7
+  - first:
+      213: 7689009062449699364
+    second: PrototypeHero_noSword_run_8
+  - first:
+      213: -1164441539872903659
+    second: PrototypeHero_noSword_run_9
+  - first:
+      213: -6326166874669469514
+    second: PrototypeHero_noSword_run_10
+  - first:
+      213: 7462515846821740574
+    second: PrototypeHero_noSword_run_11
+  - first:
+      213: -1511439312443757906
+    second: PrototypeHero_noSword_run_12
+  - first:
+      213: -4226528926023354331
+    second: PrototypeHero_noSword_run_13
+  - first:
+      213: -4907873720525803805
+    second: PrototypeHero_noSword_run_14
+  - first:
+      213: 8624416173827944233
+    second: PrototypeHero_noSword_run_15
+  - first:
+      213: 7596422657191921015
+    second: PrototypeHero_noSword_run_16
+  - first:
+      213: 3453456964050149627
+    second: PrototypeHero_noSword_run_17
+  - first:
+      213: 1754410503405021611
+    second: PrototypeHero_noSword_run_18
+  - first:
+      213: 94350610954393414
+    second: PrototypeHero_noSword_run_19
+  - first:
+      213: 206000825735862709
+    second: PrototypeHero_noSword_run_20
+  - first:
+      213: 8805229048319299542
+    second: PrototypeHero_noSword_run_21
+  - first:
+      213: -4138627711817085780
+    second: PrototypeHero_noSword_run_22
+  - first:
+      213: 3424336538708577684
+    second: PrototypeHero_noSword_run_23
+  - first:
+      213: -1661161444620143387
+    second: PrototypeHero_noSword_run_7
+  - first:
+      213: 5178217795198960915
+    second: PrototypeHero_noSword_run_8
+  - first:
+      213: 7293680273209069412
+    second: PrototypeHero_noSword_run_9
+  - first:
+      213: 2050991476770989250
+    second: PrototypeHero_noSword_run_10
+  - first:
+      213: 1203603147357687466
+    second: PrototypeHero_noSword_run_11
+  - first:
+      213: -8491911781051201309
+    second: PrototypeHero_noSword_run_12
+  - first:
+      213: 1031841434176589437
+    second: PrototypeHero_noSword_run_13
+  - first:
+      213: 6236456866922691791
+    second: PrototypeHero_noSword_run_14
+  - first:
+      213: -1813696893433686229
+    second: PrototypeHero_noSword_run_15
+  - first:
+      213: 1323625902380857701
+    second: PrototypeHero_noSword_run_0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32.01
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PrototypeHero_noSword_run_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 82
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315c07c36a9bcd740800000000000000
+      internalID: 5178217795198960915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_noSword_run_9
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 83
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f86ed909b583560800000000000000
+      internalID: 7293680273209069412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_noSword_run_10
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 82
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4e94aa1e5967c10800000000000000
+      internalID: 2050991476770989250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_noSword_run_11
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 82
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae0cc08fae04b010800000000000000
+      internalID: 1203603147357687466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_noSword_run_12
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 82
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e80d7a2a3ba62a80800000000000000
+      internalID: -8491911781051201309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_noSword_run_13
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 83
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e00a44156d15e00800000000000000
+      internalID: 1031841434176589437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_noSword_run_14
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 82
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccf8f17a785c8650800000000000000
+      internalID: 6236456866922691791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_noSword_run_7
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 162
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c16bf4ee8e220830800000000000000
+      internalID: 4035839407339299264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_noSword_run_15
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 82
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27d7a8e84474d6e0800000000000000
+      internalID: -1813696893433686229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

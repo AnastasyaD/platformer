@@ -1,0 +1,295 @@
+fileFormatVersion: 2
+guid: c53fc56bb731d284ca5d3cc26c614477
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5437349587573597466
+    second: PrototypeHero_noSword_jump_0
+  - first:
+      213: -2778993012759620776
+    second: PrototypeHero_noSword_jump_1
+  - first:
+      213: 3684505007558424926
+    second: PrototypeHero_noSword_jump_2
+  - first:
+      213: 5016676964518696242
+    second: PrototypeHero_noSword_jump_3
+  - first:
+      213: 2836046195837134096
+    second: PrototypeHero_noSword_jump_4
+  - first:
+      213: 5140102610815961799
+    second: PrototypeHero_noSword_jump_5
+  - first:
+      213: -3230573688774791931
+    second: PrototypeHero_noSword_jump_6
+  - first:
+      213: 3708129854230550294
+    second: PrototypeHero_noSword_jump_7
+  - first:
+      213: -2802937136452739745
+    second: PrototypeHero_noSword_jump_8
+  - first:
+      213: -5676815673388460886
+    second: PrototypeHero_noSword_jump_9
+  - first:
+      213: -1367800908821165726
+    second: PrototypeHero_noSword_jump_10
+  - first:
+      213: -964033490189473390
+    second: PrototypeHero_noSword_jump_11
+  - first:
+      213: 7196582024119516525
+    second: PrototypeHero_noSword_jump_12
+  - first:
+      213: 4331569672913873109
+    second: PrototypeHero_noSword_jump_13
+  - first:
+      213: 8224607326687102191
+    second: PrototypeHero_noSword_jump_14
+  - first:
+      213: -8387440632408011375
+    second: PrototypeHero_noSword_jump_15
+  - first:
+      213: 8703622215093065049
+    second: PrototypeHero_noSword_jump_16
+  - first:
+      213: 6364398179391704300
+    second: PrototypeHero_noSword_jump_17
+  - first:
+      213: -294250956862601393
+    second: PrototypeHero_noSword_jump_18
+  - first:
+      213: 494843737735223460
+    second: PrototypeHero_noSword_jump_19
+  - first:
+      213: -5272962378027284885
+    second: PrototypeHero_noSword_jump_20
+  - first:
+      213: 1169345014038381176
+    second: PrototypeHero_noSword_jump_21
+  - first:
+      213: 3777843075353888277
+    second: PrototypeHero_noSword_jump_22
+  - first:
+      213: 639632770037249468
+    second: PrototypeHero_noSword_jump_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 10
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32.1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PrototypeHero_noSword_jump_19
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8d807f1c90ed600800000000000000
+      internalID: 494843737735223460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_noSword_jump_20
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 4
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b664faf87aca2d6b0800000000000000
+      internalID: -5272962378027284885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_noSword_jump_21
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 7
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872c1a548195a3010800000000000000
+      internalID: 1169345014038381176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_noSword_jump_22
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 7
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51643abd2489d6430800000000000000
+      internalID: 3777843075353888277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrototypeHero_noSword_jump_23
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 2
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5f4cc8d9e60e800800000000000000
+      internalID: 639632770037249468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
